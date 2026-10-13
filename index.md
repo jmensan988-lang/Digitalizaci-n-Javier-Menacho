@@ -17,4 +17,6 @@ En este archivo vamos a explorar cómo el software de código abierto y las herr
 
 Para conocer en profundidad cómo se ejecuta este cambio tecnológico y cuáles son sus pilares fundamentales, visita nuestro artículo especializado sobre la [Evolución de la Transformación Digital](evolución.md).
 
-> "La tecnología por sí sola no basta. Es la transformación guiada por una estrategia clara lo que genera verdadero valor empresarial."
+---
+> "La tecnología por sí sola no basta, ya que es la transformación guiada por una estrategia clara lo que genera verdadero valor empresarial."
+---
