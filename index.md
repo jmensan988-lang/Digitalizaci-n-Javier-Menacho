@@ -1,11 +1,11 @@
-# Bienvenidos al Portal de Digitalización 🌐
+# Bienvenidos al archivo sobre la Digitalización 
 
-La **digitalización** no es una opción de cara al futuro, es una necesidad del presente. Consiste en la aplicación de tecnologías digitales para transformar modelos de negocio, optimizar procesos de desarrollo y mejorar la vida de los usuarios.
+La **digitalización** no es una opción de cara al futuro, sino que es una necesidad del presente que consiste en la aplicación de las tecnologías digitales para poder transformar los modelos de negocio, optimizar los procesos de desarrollo y poder mejorar la vida de los usuarios.
 
 ![Barra de carga de Digitalización](https://servinform.es)
 
-## ¿Qué encontrarás en este espacio?
-En este repositorio exploramos cómo el software de código abierto y las herramientas modernas actúan como motores de cambio.
+## ¿Qué puedes encontrar en este archivo?
+En este archivo vamos a explorar cómo el software de código abierto y las herramientas modernas actúan como unos motores de cambio.
 
 * **Impacto empresarial:** Reducción de costes y tiempos de procesamiento.
 * **Impacto social:** Mayor accesibilidad globales a servicios esenciales.
@@ -13,7 +13,7 @@ En este repositorio exploramos cómo el software de código abierto y las herram
 
 ---
 
-## 🎯 Explora más contenido
+## Explora más contenido
 
 Para conocer en profundidad cómo se ejecuta este cambio tecnológico y cuáles son sus pilares fundamentales, visita nuestro artículo especializado sobre la [Evolución de la Transformación Digital](transformacion.md).
 
