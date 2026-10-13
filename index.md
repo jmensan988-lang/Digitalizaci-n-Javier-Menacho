@@ -2,7 +2,7 @@
 
 La **digitalización** no es una opción de cara al futuro, sino que es una necesidad del presente que consiste en la aplicación de las tecnologías digitales para poder transformar los modelos de negocio, optimizar los procesos de desarrollo y poder mejorar la vida de los usuarios.
 
-![Imagen sobre la Digitalización]([https://servinform.es](https://www.servinform.es/wp-content/uploads/2023/03/Diseno-sin-titulo-compressed-1.jpg))
+![Imagen sobre la Digitalización] ([https://servinform.es](https://www.servinform.es/wp-content/uploads/2023/03/Diseno-sin-titulo-compressed-1.jpg))
 
 ## ¿Qué puedes encontrar en este archivo?
 En este archivo vamos a explorar cómo el software de código abierto y las herramientas modernas actúan como unos motores de cambio.
