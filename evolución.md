@@ -12,7 +12,7 @@ Para poder lograr un estado óptimo de la *Digitalización Tecnológica*, es vit
 
 ## El Rol de la Automatización y el Código
 
-Las herramientas colaborativas como los **sistemas de control de versiones** y **repositorios** nos permiten implementar despliegues robustos a nivel mundial. El uso de las plataformas en línea nos  facilita que cualquier desarrollador pueda integrarse a flujos de trabajo sin tener ningún tipo de barrera geográfica.
+Las herramientas colaborativas como **los sistemas de control de versiones y los repositorios** nos permiten implementar despliegues robustos a nivel mundial. El uso de las plataformas en línea nos  facilita que cualquier desarrollador pueda integrarse a flujos de trabajo sin tener ningún tipo de barrera geográfica.
 
 Puedes regresar a la página principal en cualquier momento a través de este enlace: [Volver al Inicio](index.md).
 
